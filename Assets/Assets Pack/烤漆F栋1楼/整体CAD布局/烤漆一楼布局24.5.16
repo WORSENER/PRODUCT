@@ -1,0 +1,9 @@
+    <div class="MessageBox" style="width:351px">
+                    <img class="MessageBoxIcon" src="/static/images/messageBox/forbidden.png" />
+                    <div class="center forbidden ">
+                            <div class="title">禁止</div>
+                            <div class="msg-content">禁止下载此类型文件</div>
+                    </div>
+    </div>
+        <br><center><input type="button" class="btn" value="返回" onclick="history.back();"></center>
+    
