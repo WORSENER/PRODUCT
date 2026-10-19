@@ -110,6 +110,10 @@ InitTestScene*.unity*
 /.codex/
 /.idea/
 
+# 本地备份/临时打包目录（不属于项目内容）
+/_Backup_*/
+/_backup_*/
+
 # 单个文件超过 GitHub 100MB 硬限制，无法进仓库；
 # 随「超限文件补丁包」单独分发，解压覆盖到项目根即可。
 # 注：主场景 ProductScene.unity 原本也超限（134MB），已把其中 95 个内嵌 Mesh
