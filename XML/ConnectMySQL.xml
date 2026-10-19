@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ConnectMySQL 数据库连接配置。
+  此文件位于程序目录/XML/ConnectMySQL.xml。
+  打包后请将 XML 文件夹放在 exe 同级目录。
+-->
+<ConnectMySQLConfig>
+  <ServerName>yd.hoyangmt.com</ServerName>
+  <DbName>hoyang</DbName>
+  <UserName>root</UserName>
+  <Password>Hoyang123</Password>
+  <Port>8125</Port>
+</ConnectMySQLConfig>

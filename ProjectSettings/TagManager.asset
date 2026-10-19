@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "\u56FE\u6807"
+  - "F\u697C"
+  - "A\u697C"
+  - "B\u697C"
+  - "C\u697C"
+  - "D\u697C"
+  - "E\u697C"
+  - "G\u697C"
+  - "H\u697C"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - F
+  - Water
+  - UI
+  - POST
+  - Tree
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

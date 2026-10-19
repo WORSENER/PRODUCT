@@ -1,0 +1,7 @@
+# 说明：本仓库刻意不使用 Git LFS。
+# 原因：git-lfs 的传输固定走 HTTPS(github.com:443)，而本机该端口不通；
+#       一旦 .gitattributes 里写了 lfs 属性，add / push 会卡在 LFS 上传上失败。
+#
+# 因此这里按原始字节存储，不做行尾转换（Unity 工程跨平台更稳）。
+
+* -text
