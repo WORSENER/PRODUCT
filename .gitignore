@@ -112,5 +112,6 @@ InitTestScene*.unity*
 
 # 单个文件超过 GitHub 100MB 硬限制，无法进仓库；
 # 随「超限文件补丁包」单独分发，解压覆盖到项目根即可。
-/Assets/Scenes/ProductScene.unity
+# 注：主场景 ProductScene.unity 原本也超限（134MB），已把其中 95 个内嵌 Mesh
+# 抽成 Assets/Meshes/*.asset，场景降到 14MB，因此现在可以正常入库了。
 /Assets/Assets Pack/1楼FBX/1楼办公桌椅/Laborat.FBX
